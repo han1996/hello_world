@@ -4,7 +4,7 @@ import paramiko
 ip = '219.243.86.220'
 port = 22
 username = 'root'
-password = '3W.hebut.com'
+password = '*********'
 win_path = 'D:/sysctl.conf'
 linux_path = '/etc/sysctl.conf'
 
